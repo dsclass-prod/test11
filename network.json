@@ -12,7 +12,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "raw_data.csv",
+            "source": "satisfactionSurvey.csv",
             "target": "clean.R"
         },
         {
@@ -68,7 +68,7 @@
     ],
     "nodes": [
         {
-            "name": "raw_data.csv"
+            "name": "satisfactionSurvey.csv"
         },
         {
             "name": "data.csv"
@@ -95,9 +95,9 @@
             "assigned_to": "yatish",
             "desc": "",
             "name": "reg.R",
-            "task_status": "proposed"
+            "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-10-24 20:50:59",
+    "updated_at": "2018-10-24 20:54:09",
     "url": "https://github.com/dsclass-prod/test11"
 }
