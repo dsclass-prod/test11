@@ -77,10 +77,6 @@
             "name": "data.csv"
         },
         {
-            "desc": "",
-            "name": "analyze.R"
-        },
-        {
             "name": "plot.png"
         },
         {
@@ -89,8 +85,14 @@
         },
         {
             "name": "reg_out.txt"
+        },
+        {
+            "assigned_to": "yatish2",
+            "desc": "",
+            "name": "analyze.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-24 20:46:48",
+    "updated_at": "2018-10-24 20:47:01",
     "url": "https://github.com/dsclass-prod/test11"
 }
