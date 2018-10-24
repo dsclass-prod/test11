@@ -1,6 +1,7 @@
 {
     "collaborators": [
-        "yatish"
+        "yatish",
+        "yatish2"
     ],
     "created_at": "2018-10-24 20:38:31",
     "edges": [
@@ -36,6 +37,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-24 20:38:31",
+    "updated_at": "2018-10-24 20:39:58",
     "url": "https://github.com/dsclass-prod/test11"
 }
