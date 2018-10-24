@@ -62,8 +62,12 @@
         },
         {
             "name": "plot.png"
+        },
+        {
+            "desc": "",
+            "name": "reg.R"
         }
     ],
-    "updated_at": "2018-10-24 20:41:51",
+    "updated_at": "2018-10-24 20:46:08",
     "url": "https://github.com/dsclass-prod/test11"
 }
