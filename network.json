@@ -54,6 +54,16 @@
             ],
             "source": "data.csv",
             "target": "reg.R"
+        },
+        {
+            "ports": [
+                {
+                    "output": "out",
+                    "type": "txt"
+                }
+            ],
+            "source": "reg.R",
+            "target": "reg_out.txt"
         }
     ],
     "nodes": [
@@ -81,6 +91,6 @@
             "name": "reg_out.txt"
         }
     ],
-    "updated_at": "2018-10-24 20:46:33",
+    "updated_at": "2018-10-24 20:46:48",
     "url": "https://github.com/dsclass-prod/test11"
 }
