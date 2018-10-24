@@ -77,10 +77,6 @@
             "name": "plot.png"
         },
         {
-            "desc": "",
-            "name": "reg.R"
-        },
-        {
             "name": "reg_out.txt"
         },
         {
@@ -94,8 +90,14 @@
             "desc": "",
             "name": "clean.R",
             "task_status": "proposed"
+        },
+        {
+            "assigned_to": "yatish",
+            "desc": "",
+            "name": "reg.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-24 20:49:35",
+    "updated_at": "2018-10-24 20:49:40",
     "url": "https://github.com/dsclass-prod/test11"
 }
