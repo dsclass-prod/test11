@@ -48,22 +48,22 @@
         {
             "ports": [
                 {
-                    "input": "df",
-                    "type": "csv"
-                }
-            ],
-            "source": "data.csv",
-            "target": "reg.R"
-        },
-        {
-            "ports": [
-                {
                     "output": "out",
                     "type": "txt"
                 }
             ],
             "source": "reg.R",
             "target": "reg_out.txt"
+        },
+        {
+            "ports": [
+                {
+                    "input": "clean",
+                    "type": "csv"
+                }
+            ],
+            "source": "data.csv",
+            "target": "reg.R"
         }
     ],
     "nodes": [
@@ -98,6 +98,6 @@
             "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-24 20:49:40",
+    "updated_at": "2018-10-24 20:50:59",
     "url": "https://github.com/dsclass-prod/test11"
 }
