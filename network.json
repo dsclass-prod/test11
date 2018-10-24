@@ -71,9 +71,6 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "clean.R"
-        },
-        {
             "name": "data.csv"
         },
         {
@@ -90,9 +87,15 @@
             "assigned_to": "yatish2",
             "desc": "",
             "name": "analyze.R",
+            "task_status": "in progress"
+        },
+        {
+            "assigned_to": "yatish",
+            "desc": "",
+            "name": "clean.R",
             "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-24 20:47:01",
+    "updated_at": "2018-10-24 20:49:35",
     "url": "https://github.com/dsclass-prod/test11"
 }
