@@ -44,6 +44,16 @@
             ],
             "source": "analyze.R",
             "target": "plot.png"
+        },
+        {
+            "ports": [
+                {
+                    "input": "df",
+                    "type": "csv"
+                }
+            ],
+            "source": "data.csv",
+            "target": "reg.R"
         }
     ],
     "nodes": [
@@ -68,6 +78,6 @@
             "name": "reg.R"
         }
     ],
-    "updated_at": "2018-10-24 20:46:08",
+    "updated_at": "2018-10-24 20:46:18",
     "url": "https://github.com/dsclass-prod/test11"
 }
